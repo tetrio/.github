@@ -1,2 +1,1 @@
-# .github
-Readme file for organization
+# TETR.IO
